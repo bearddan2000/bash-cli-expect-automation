@@ -1,4 +1,4 @@
-# new-bash-cli-expect-automation
+# bash-cli-expect-automation
 
 ## Description
 An automation tool for command line programs.
